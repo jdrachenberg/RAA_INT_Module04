@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_INT_Module04 - Command 1</Text>
+    <Description>Some description for RAA_INT_Module04</Description>
+    <Assembly>RAA_INT_Module04.dll</Assembly>
+    <FullClassName>RAA_INT_Module04.Command1</FullClassName>
+    <ClientId>3697ea14-0440-4641-ab7c-c28a0bfa36b3</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_INT_Module04 - Command 2</Text>
+    <Description>Some description for RAA_INT_Module04</Description>
+    <Assembly>RAA_INT_Module04.dll</Assembly>
+    <FullClassName>RAA_INT_Module04.Command2</FullClassName>
+    <ClientId>8922a84f-d835-4fdf-89a7-2644a3c5f919</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_INT_Module04</Name>
+    <Assembly>RAA_INT_Module04.dll</Assembly>
+    <FullClassName>RAA_INT_Module04.App</FullClassName>
+    <ClientId>9d76d04b-3314-43bb-8e8c-d370d24f4bd9</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
